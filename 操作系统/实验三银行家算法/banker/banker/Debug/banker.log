@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\大三上\计算机操作系统\实验\实验结果\实验三银行家算法\banker\banker\源.cpp(129,24): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+D:\大三上\计算机操作系统\实验\实验结果\实验三银行家算法\banker\banker\源.cpp(222,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  banker.vcxproj -> D:\大三上\计算机操作系统\实验\实验结果\实验三银行家算法\banker\Debug\banker.exe
